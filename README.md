@@ -1,13 +1,6 @@
 - 👋 Hi, I’m @lnomkin
-- I am a second year MPA student at SIPA studying urban and social policy. 
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-lnomkin/lnomkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I am a second year MPA student at SIPA studying urban and social policy and am currently interning at the Mayor's Office. I have experience in education, fundraising, and strategic planning and management for social services. Most recently, I worked as the Manager of Strategic Initiatives for Met Council's Food Program. I hope to improve the delivery of social services for city government. 
+- 👀 I’m interested in using data to drive forward social service delivery and make the programs more equitable and efficient for the end-user. 
+- 📫 How to reach me: lrn2115@columbia.edu or www.linkedin.com/in/leah-nomkin
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: On the weekends, you can find me cycling with New York City's Cycle Club, doing 70-100 mile rides and exploring upstate New York. 
